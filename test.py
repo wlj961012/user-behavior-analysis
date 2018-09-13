@@ -1,6 +1,0 @@
-plt.figure()
-plt.title('SVM-Precision/Recall Curve')
-plt.xlabel('Recall')
-plt.ylabel('Precision')
-plt.plot(r, p)
-plt.show()
